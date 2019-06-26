@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- Review Chingu Agile 
+- Choose project
+- Define MVP
+  - Title
+  - Footer
