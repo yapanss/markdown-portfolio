@@ -1,0 +1,5 @@
+- Review Chingu Agile 
+- Choose project
+- Define MVP
+  - Title
+  - Footer
